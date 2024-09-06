@@ -3,7 +3,7 @@
     <info>
 	<name>Addon Classes</name>
 	<update version="0.0.1">
-		<file name="classes.index" url="https://raw.githubusercontent.com/GreenXemas/AuroraAddons/master/addons/classes.index"/>
+		<file name="classes.index" url="https://raw.githubusercontent.com/GreenXemas/AuroraAddons/master/green/classes.index"/>
 	</update>
     </info>
     <files>
