@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<index>
+	<info>
+		<update version="0.0.1">
+			<file name="green.index" url="https://raw.githubusercontent.com/GreenXemas/AuroraAddons/master/green.index" />
+		</update>
+	</info>
+	<files>
+		<file name="source.xml" url="https://raw.githubusercontent.com//AuroraAddons/master/green/source.xml" />
+		
+		<!-- race stuff -->
+		<file name="races.index" url="https://raw.githubusercontent.com//AuroraAddons/master/green/races.index"/>
+		<file name="subraces.index" url="https://raw.githubusercontent.com//AuroraAddons/master/green/subraces.index"/>
+    
+		<!-- class stuff -->
+		<file name="classes.index" url="https://raw.githubusercontent.com//AuroraAddons/master/green/classes.index"/>
+		<file name="archetypes.index" url="https://raw.githubusercontent.com//AuroraAddons/master/green/archetypes.index"/>
+		
+		<!-- backgrounds -->
+		<file name="backgrounds.index" url="https://raw.githubusercontent.com//AuroraAddons/master/green/backgrounds.index"/>
+
+		<!-- spells -->
+		<file name="spells.index" url="https://raw.githubusercontent.com//AuroraAddons/master/green/spells.index"/>
+    
+		<!-- equipment -->
+		<file name="equipment.index" url="https://raw.githubusercontent.com//AuroraAddons/master/green/equipment.index"/>
+
+		<!-- feats -->
+		<file name="feats.index" url="https://raw.githubusercontent.com//AuroraAddons/master/green/feats.index"/>
+
+		<!-- other -->
+		<file name="other.index" url="https://raw.githubusercontent.com//AuroraAddons/master/green/other.index"/>
+
+	</files>
+</index>
