@@ -3,7 +3,7 @@
     <info>
 	<name>Addon Archetypes</name>
 	<update version="0.0.1">
-		<file name="archetypes.index" url="https://raw.githubusercontent.com/GreenXemas/AuroraAddons/master/addons/archetypes.index"/>
+		<file name="archetypes.index" url="https://raw.githubusercontent.com/GreenXemas/AuroraAddons/master/green/archetypes.index"/>
 	</update>
     </info>
     <files>
