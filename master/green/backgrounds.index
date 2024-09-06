@@ -3,7 +3,7 @@
     <info>
 	<name>Addon Backgrounds</name>
 	<update version="0.0.1">
-		<file name="races.index" url="https://raw.githubusercontent.com/GreenXemas/AuroraAddons/master/addons/backgrounds.index"/>
+		<file name="backgrounds.index" url="https://raw.githubusercontent.com/GreenXemas/AuroraAddons/master/addons/backgrounds.index"/>
 	</update>
     </info>
     <files>
